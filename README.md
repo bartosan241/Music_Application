@@ -1,4 +1,4 @@
-# Music-Application-
+# Music Application
 
 Bienvenue dans mon projet de gestion de Proprietaire & salles de musique. Ce projet permet de gérer des propriétaires de salles de musique ainsi que les détails associés à chaque salle. Vous pouvez ajouter, modifier et supprimer des salles et des propriétaires à l'aide de notre API.Le projet a été développé en utilisant Java avec le framework Spring Boot, intégrant une base de données MySQL pour la gestion des propriétaires et des salles de musique.
 
